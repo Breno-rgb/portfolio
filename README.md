@@ -21,6 +21,7 @@ breakpoints.
 | Projeto | Stack | Link |
 |---|---|---|
 | Kurio — Marketplace de NFTs | React · TypeScript · TanStack · Socket.IO · Playwright | [ver](https://nft-marketplace-pearl-one.vercel.app/) · [código](https://github.com/Breno-rgb/nft-marketplace) |
+| Robô Currículo | React · TypeScript · Supabase · Vercel | [ver](https://robo-curriculo-web.vercel.app/) · [código](https://github.com/Breno-rgb/robo-curriculo-web) |
 | Aroma & Encanto | HTML · CSS · JS · Cloudflare | [aromaeencantoscs.com.br](https://aromaeencantoscs.com.br) |
 | Display Interativo de Eletrônicos | HTML · CSS · JS | [ver](https://breno-rgb.github.io/devclub-store/) |
 | Cadastro de Usuários | React · Node.js | [ver](https://cadastro-usuarios-azure.vercel.app/) |
